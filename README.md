@@ -82,17 +82,17 @@ This project was developed using the following technologies and resources:
 - Click on back to dashboard and Copy your contract ABI and contract address.
 - To verify your transaction, paste your contract address on PolygonScan Testnet
 ## Sneak Peek
-
-<h1 align="center">
-    <img alt="Gpt3" src=".github/preview.png" />
-</h1>
+<img width="948" alt="Screenshot 2023-04-25 234921" src="https://user-images.githubusercontent.com/68241801/234424909-d9d6670f-04f3-44b0-8b5c-1076d388e4a6.png">
 
 - Deployment on bunzz verification 
+<img width="960" alt="Screenshot 2023-04-25 155947" src="https://user-images.githubusercontent.com/68241801/234424966-f16713ac-7cff-4b66-a3bd-1033d47c76a6.png">
 
 - Sending crypto across other platforms verification
+<img width="946" alt="Screenshot 2023-04-25 161222" src="https://user-images.githubusercontent.com/68241801/234425001-c3d83a9b-f90a-4d0a-8b7f-918dd09813b4.png">
 
 - Confirmation for sending funds 1000 matic to Contact Address(0x393aBdA10bb9E83D07F518Dd3B27bE89790A0218
 ) on the Polygon Network
+<img width="948" alt="Screenshot 2023-04-25 161432" src="https://user-images.githubusercontent.com/68241801/234425020-7895c7c7-0eda-40f2-9dc5-4b5bb7f07e3d.png">
 
 
 
