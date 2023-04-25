@@ -64,13 +64,7 @@ When connecting your wallet to the application, it is possible to view the lates
 
 
 
-## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DevJPVR/web3.0/blob/main/LICENSE) para mais detalhes.
-
----
-
-Feito com 💜 by JoãoPedro
 
 # Kryptea (Web3Afrika Hackathon Build 💬
 
@@ -81,9 +75,7 @@ Feito com 💜 by JoãoPedro
   </a>
 </p>
 
-<!-- Ever wanted to communicate with friends in real-time and you worry about accessibility, compatibility, customization, and cost-effectiveness or having to download an app most times, TalkuTalku is that platform 🎉
- 
-Talku Talku is a Realtime private Chat Application that runs majorly on the web, might metamorphose into apps to run on other platforms. Its a minimalistic platform where users can come, join rooms with other frineds/users to talk about all kinds of chit chat with real time experience. -->
+When connecting your wallet to the application, it is possible to view the latest transactions made and send values through the Ethereum network on the blockchain. When sending the values, it is possible to write a keyword in the Keyword (GIF) field. Through Giphy's API, the keyword is associated with a similar gif and then displayed on the transaction card. It is also possible to send a message with the description of the transfer.
  
 ### ✨ [Live Demo]()
 
