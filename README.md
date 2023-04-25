@@ -1,32 +1,3 @@
-<p align="center">
-  <img alt="Gpt3" src="https://github.com/Vinyl-Davyl/web3afrika-hackathon-kryptea/blob/main/client/images/logo.png" width="160px">
-</p>
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Vinyl-Davyl/web3afrika-hackathon-kryptea/?color=%2304D361">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Vinyl-Davyl/web3afrika-hackathon-kryptea/">
-
-  
-  <a href="https://github.com/Vinyl-Davyl/web3afrika-hackathon-kryptea/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit//Vinyl-Davyl/web3afrika-hackathon-kryptea/">
-  </a>
-    
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/DevJPVR/Web3.0/blob/main/LICENSE">
-
-</p>
-
-
-<h1 align="center">
-    <img alt="Gpt3" src=".github/preview.png" />
-</h1>
-
-
-<br>
-
-
-
 # Kryptea (Web3Afrika Hackathon Build 💬
 
 <p>
