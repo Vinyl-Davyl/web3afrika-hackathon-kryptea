@@ -52,14 +52,7 @@ Leave a ⭐️ If this project got you going!
 ## Stack
 This project was developed using the following technologies and resources:
 
-- [React](https://reactjs.org)
-- [Vite](https://vitejs.dev/)
-- [Tailwind](https://tailwindcss.com/)
-- [Solidity](https://docs.soliditylang.org/)
-- [Metamask](https://metamask.io/)
-- [Alchemy](https://www.alchemy.com/)
-- [Giphy](https://www.alchemy.com/)
-- [Bunzz](https://www.bunzz.dev)
+[React](https://reactjs.org), [Vite](https://vitejs.dev/), [Tailwind](https://tailwindcss.com/), [Solidity](https://docs.soliditylang.org/), [Metamask](https://metamask.io/), [Alchemy](https://www.alchemy.com/), [Giphy](https://www.alchemy.com/), [Bunzz](https://www.bunzz.dev)
 
 
 ## Features
