@@ -1,4 +1,4 @@
-# Kryptea (Web3Afrika Hackathon Build) 💬
+# Kryptea (Web3Afrika Hackathon Build) 🛠 
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
@@ -28,27 +28,16 @@ $ yarn start
 ```
 The app will be available on your browser at the address http://localhost:3000.
 
+<br>
 
 ## Problems Talked Down on
-<!-- 🪡 Accessibility: Giving web-based chat apps more power with the leverage of been accessed from any device with an internet connection, giving users greater flexibility and convenience.
+- **Lack of transparency:** The application allows users to view their latest transactions made through the Ethereum network on the blockchain, which can increase transparency and provide greater visibility into one's transaction history.
 
-🪡 No Download Required: Users don't need to download and install a separate app onto their device, saves storage space and reduces the time it takes to get started.
+- **Limited functionality:** By allowing users to send values and messages with description, the application provides additional functionality beyond what is typically offered by a regular wallet application.
 
-🪡 Cross-Platform Compatibility: TalkuTalku works across multiple platforms, including desktops, laptops, smartphones, and tablets, making them more accessible to a wider range of users.
+- **Boring or unengaging user experience:** By associating keywords with GIFs through Giphy's API, the application adds an element of fun and whimsy to the transaction process, potentially making it more engaging for users.
 
-🪡 Easy Integration: Web-based chat apps can easily integrate with other web applications or services, such as social media platforms, email, and project management tools.
-
-🪡 SEO Benefits: Web-based chat apps can help improve website traffic and visibility through search engine optimization (SEO), as they can be optimized for specific keywords.
-
-to name a few... -->
-
-- Lack of transparency: The application allows users to view their latest transactions made through the Ethereum network on the blockchain, which can increase transparency and provide greater visibility into one's transaction history.
-
-- Limited functionality: By allowing users to send values and messages with description, the application provides additional functionality beyond what is typically offered by a regular wallet application.
-
-- Boring or unengaging user experience: By associating keywords with GIFs through Giphy's API, the application adds an element of fun and whimsy to the transaction process, potentially making it more engaging for users.
-
-- Difficulty in associating transfers with a specific context: By allowing users to include descriptions with their transfers, the application makes it easier to associate a transfer with a specific context (e.g. "rent payment" or "coffee with friends") rather than just a generic value transfer.
+- **Difficulty in associating transfers with a specific context:** By allowing users to include descriptions with their transfers, the application makes it easier to associate a transfer with a specific context (e.g. "rent payment" or "coffee with friends") rather than just a generic value transfer.
 
 
 
@@ -74,19 +63,13 @@ This project was developed using the following technologies and resources:
 
 
 ## Features
-<!-- ### From V2
-- [x] Users can register/login via username and password.
-- [x] Generate random avatars using [MultiAvatar](https://api.multiavatar.com/) API
-- [x] Emoji picker Integrated.
-- [x] Users can browse and skim through active users
-- [x] Cross-Platform Compatibile
 
- ### Update on Features come V3
-- [x] Full Migration to Typescript for scalability
-- [x] Profile section where users can update their avatars with actual selected image
-- [x] User should be abould to send photos and images while conversating
-- [x] Users should be able to update already set profile image, after profile creation
-- [x] UI Update -->
+- [x] View latest transactions
+- [x] Send values through Ethereum network on the blockchain
+- [x] Write a keyword in the Keyword (GIF) field
+- [x] Associate the keyword with similar GIF using Giphy's API
+- [x] Display the associated GIF on the transaction card
+- [x] Send a message with the description of the transfer
 
 ## Prerequisite     
 1. Have MetaMask extension installed.
@@ -110,6 +93,14 @@ This project was developed using the following technologies and resources:
 <h1 align="center">
     <img alt="Gpt3" src=".github/preview.png" />
 </h1>
+
+- Deployment on bunzz verification 
+
+- Sending crypto across other platforms verification
+
+- Confirmation for sending funds 1000 matic to Contact Address(0x393aBdA10bb9E83D07F518Dd3B27bE89790A0218
+) on the Polygon Network
+
 
 
 ## 📝 License
