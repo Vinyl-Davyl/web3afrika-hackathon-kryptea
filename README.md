@@ -25,45 +25,6 @@
 
 <br>
 
-## Technologies Used
-
-This project was developed using the following technologies and resources:
-
-- [React](https://reactjs.org)
-- [Vite](https://vitejs.dev/)
-- [Tailwind](https://tailwindcss.com/)
-- [Solidity](https://docs.soliditylang.org/)
-- [Metamask](https://metamask.io/)
-- [Alchemy](https://www.alchemy.com/)
-- [Giphy](https://www.alchemy.com/)
-
-
-## 🚀 Como executar
-
-Clone o projeto e acesse a pasta do mesmo.
-
-```bash
-$ git clone https://github.com/Vinyl-Davyl/web3afrika-hackathon-kryptea.git
-```
-
-To start it, follow the steps below:
-```bash
-# Install dependencies
-$ yarn
-# Initialize project
-$ yarn start
-```
-The app will be available on your browser at the address http://localhost:3000.
-
-
-## 💻 Projeto
-
-When connecting your wallet to the application, it is possible to view the latest transactions made and send values through the Ethereum network on the blockchain. When sending the values, it is possible to write a keyword in the Keyword (GIF) field. Through Giphy's API, the keyword is associated with a similar gif and then displayed on the transaction card. It is also possible to send a message with the description of the transfer.
-
-- [Link para testar a APP](https://dazzling-mcclintock-61dab6.netlify.app/)
-
-
-
 
 
 # Kryptea (Web3Afrika Hackathon Build 💬
@@ -78,6 +39,23 @@ When connecting your wallet to the application, it is possible to view the lates
 When connecting your wallet to the application, it is possible to view the latest transactions made and send values through the Ethereum network on the blockchain. When sending the values, it is possible to write a keyword in the Keyword (GIF) field. Through Giphy's API, the keyword is associated with a similar gif and then displayed on the transaction card. It is also possible to send a message with the description of the transfer.
  
 ### ✨ [Live Demo]()
+
+## 🚀 Getting Started
+
+Clone the project and access its folder.
+
+```bash
+$ git clone https://github.com/Vinyl-Davyl/web3afrika-hackathon-kryptea.git
+```
+
+To start it, follow the steps below:
+```bash
+# Install dependencies
+$ yarn
+# Initialize project
+$ yarn start
+```
+The app will be available on your browser at the address http://localhost:3000.
 
 
 ## Problems Talked Down on
