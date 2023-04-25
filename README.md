@@ -93,7 +93,8 @@ This project was developed using the following technologies and resources:
 - Confirmation for sending funds 1000 matic to Contact Address(0x393aBdA10bb9E83D07F518Dd3B27bE89790A0218
 ) on the Polygon Network
 <img width="948" alt="Screenshot 2023-04-25 161432" src="https://user-images.githubusercontent.com/68241801/234425020-7895c7c7-0eda-40f2-9dc5-4b5bb7f07e3d.png">
-
+- Verification of Transaction, on PolygonScan Testnet
+<img width="960" alt="Screenshot 2023-04-25 160520" src="https://user-images.githubusercontent.com/68241801/234425359-89eadd85-ab8d-4898-8b0c-ad6a93f59832.png">
 
 
 ## 📝 License
