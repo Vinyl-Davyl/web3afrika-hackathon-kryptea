@@ -76,7 +76,7 @@ This project was developed using the following technologies and resources:
 2. Have Node.js version 16^ installed.
 3. Add and switch to the Polygon network on your MetaMask wallet(For already deployed smart contract on bunzz).
 
-## To deploy your own kryptea-version smart contract on bunzz
+## Deploying your own kryptea-version smart contract on bunzz
 - Create an account on the Bunz website and log in.
 - Click on connect wallet to connect your MetaMask wallet to Bunzz. switch to the Polygon network on your MetaMask wallet.
 - Click on create Dapp. Give your Dapp any name of your choice. Then click Next.
