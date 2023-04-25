@@ -43,17 +43,17 @@ This project was developed using the following technologies and resources:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/DevJPVR/web3.0.git
+$ git clone https://github.com/Vinyl-Davyl/web3afrika-hackathon-kryptea.git
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+To start it, follow the steps below:
 ```bash
-# Instalar as dependências
+# Install dependencies
 $ yarn
-# Iniciar o projeto
+# Initialize project
 $ yarn start
 ```
-O app estará disponível no seu browser pelo endereço http://localhost:3000.
+The app will be available on your browser at the address http://localhost:3000.
 
 
 ## 💻 Projeto
