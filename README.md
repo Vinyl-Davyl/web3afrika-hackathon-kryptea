@@ -62,6 +62,7 @@ This project was developed using the following technologies and resources:
 - [Metamask](https://metamask.io/)
 - [Alchemy](https://www.alchemy.com/)
 - [Giphy](https://www.alchemy.com/)
+- [Bunzz](https://www.bunzz.dev)
 
 
 ## Features
