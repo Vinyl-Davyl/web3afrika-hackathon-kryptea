@@ -8,19 +8,19 @@ export function Footer() {
                     <img src={logo} alt="logo" className="w-32" />
                 </div>
                 <div className="flex flex-1 justify-evenly items-center flex-wrap sm:mt-0 mt-5 w-full">
-                    <p className="text-white text-base text-center mx-2 cursor-pointer">Market</p>
-                    <p className="text-white text-base text-center mx-2 cursor-pointer">Exchange</p>
-                    <p className="text-white text-base text-center mx-2 cursor-pointer">Tutorials</p>
-                    <p className="text-white text-base text-center mx-2 cursor-pointer">Wallets</p>
+                    <p className="text-white text-base text-center mx-2 cursor-pointer"><a href="#">Market</a></p>
+                    <p className="text-white text-base text-center mx-2 cursor-pointer"><a href="#">Exchange</a></p>
+                    <p className="text-white text-base text-center mx-2 cursor-pointer"><a href="#">Tutorials</a></p>
+                    <p className="text-white text-base text-center mx-2 cursor-pointer"><a href="#">Wallet</a></p>
                 </div>
             </div>
             <div className="flex justify-center items-center flex-col mt-5">
                 <p className="text-white text-sm text-center">Come join us</p>
-                <p className="text-white text-sm text-center">info@vinyldavyl.com</p>
+                <p className="text-white text-sm text-center">okononfuadavid@gmail.com</p>
             </div>
             <div className="sm:w-[90%] w-full h-[0.25px] bg-gray-400 mt-5" />
             <div className="sm:w-[90%] w-full flex justify-between items-center mt-3">
-            <p className="text-white text-sm text-center">@Vinylchi</p>
+            <p className="text-white text-sm text-center"> <a target='_blank' href="http://vinyldavyl.netlify.app">Vinyl-Davyl</a></p>
             <p className="text-white text-sm text-center">All rights reserved</p>
             </div>
         </div>
