@@ -42,7 +42,7 @@ export function Welcome() {
                         Send Crypto <br /> across the world
                     </h1>
                     <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
-                        Explore the crypto world. Buy and sell cryptocurrencies easily on Krypto.
+                        Explore the crypto world. Buy and sell cryptocurrencies easily on Cryptea.
                     </p>
                     {!currentAccount && (
                         <button
