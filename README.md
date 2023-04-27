@@ -88,7 +88,7 @@ This project was developed using the following technologies and resources:
 <img width="960" alt="Screenshot 2023-04-25 155947" src="https://user-images.githubusercontent.com/68241801/234424966-f16713ac-7cff-4b66-a3bd-1033d47c76a6.png">
 
 - Sending crypto across other platforms verification
-<img width="946" alt="Screenshot 2023-04-25 161222" src="https://user-images.githubusercontent.com/68241801/234425001-c3d83a9b-f90a-4d0a-8b7f-918dd09813b4.png">
+<img width="946" alt="Screenshot 2023-04-25 161222" src="https://user-images.githubusercontent.com/68241801/234783995-7a7c8f31-4b48-4c13-8536-2f99419f560f.png">
 
 - Confirmation for sending funds 1000 matic to Contact Address(0x393aBdA10bb9E83D07F518Dd3B27bE89790A0218
 ) on the Polygon Network
