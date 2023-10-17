@@ -31,13 +31,13 @@ The app will be available on your browser at the address http://localhost:3000.
 <br>
 
 ## Problems Talked Down on
-- **Lack of transparency:** The application allows users to view their latest transactions made through the Ethereum network on the blockchain, which can increase transparency and provide greater visibility into one's transaction history.
+- **Lack of transparency:** Kryptea allows users to view their latest transactions made through the Ethereum network on the blockchain, which can increase transparency and provide greater visibility into one's transaction history.
 
-- **Limited functionality:** By allowing users to send values and messages with description, the application provides additional functionality beyond what is typically offered by a regular wallet application.
+- **Limited functionality:** By allowing users to send values and messages with description, Kryptea provides additional functionality beyond what is typically offered by a regular wallet application.
 
 - **Boring or unengaging user experience:** By associating keywords with GIFs through Giphy's API, the application adds an element of fun and whimsy to the transaction process, potentially making it more engaging for users.
 
-- **Difficulty in associating transfers with a specific context:** By allowing users to include descriptions with their transfers, the application makes it easier to associate a transfer with a specific context (e.g. "rent payment" or "coffee with friends") rather than just a generic value transfer.
+- **Difficulty in associating transfers with a specific context:** By allowing users to include descriptions with their transfers, Kryptea makes it easier to associate a transfer with a specific context (e.g. "rent payment" or "coffee with friends") rather than just a generic value transfer.
 
 
 
