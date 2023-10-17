@@ -38,13 +38,13 @@ export function Services() {
                     color="bg-[#8945f8]"
                     title="Best exchange rates"
                     icon={<BiSearchAlt fontSize={21} className="text-white" />}
-                    subtitle="Security is guaranted. We always maintain privacy and mainting the quality of our products."
+                    subtitle="Optimal value assurance. We ensure competitive rates for your transactions."
                 />
                 <ServiceCard 
                     color="bg-[#f84550]"
                     title="Fastest transactions"
                     icon={<RiHeart2Fill fontSize={21} className="text-white" />}
-                    subtitle="Security is guaranted. We always maintain privacy and mainting the quality of our products."
+                    subtitle="Swift, secure transfers. Your funds move at lightning speed."
                 />
             </div>
         </div>
